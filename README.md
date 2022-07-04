@@ -1,4 +1,4 @@
-# Covid19DataAnalysis
+# Covid-19 Data Analysis
 
 
 1) Importing COVID19 dataset and preparing it for the analysis by dropping columns and aggregating rows.
